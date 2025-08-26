@@ -1,10 +1,9 @@
 <!-- 배너 이미지 -->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Kim%20Chanwoo%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 <div align="center">
-  <img src="assets/banner.png" alt="Kim Chanwoo Banner" width="100%" />
-
-  # 👋 Hi, I'm **Kim Chanwoo**
-  ### 🌱 Fullstack & Frontend Developer  
-  🚀 "좋은 코드는 좋은 문화에서 나온다"
+  # 👋 Hi, I'm Kim Chanwoo
+  ### Fullstack Developer  
+  🚀 트렌드에 맞춰 발전하는 **풀스택 개발자**  
   
   <p>
     <a href="https://github.com/sap06096">
@@ -30,7 +29,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Querydsl](https://img.shields.io/badge/QueryDSL-006600?style=flat-square&logo=gradle&logoColor=white)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -61,7 +59,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🛒 [셀러 (Seller App)](https://github.com/sap06096/seller-app)  
+### 🛒 [앱셀 (Seller App)]  
 > 소비 연금 플랫폼 앱. 제휴된 서비스를 이용하면 수익의 일부를 캐시백 형태로 적립.  
 - Vue.js + Quasar + Cordova 기반 하이브리드 앱 개발  
 - 외부 API 연동: 쿠팡, 알리익스프레스, NICEPAY, KMC 인증, 카카오 메시지 API  
@@ -69,7 +67,7 @@
 
 ---
 
-### 📚 [풀스택 사이드 프로젝트](https://github.com/sap06096/fullstack-project)  
+### 📚 [중고거래 프로젝트]
 > React + Spring Boot 기반 풀스택 학습 프로젝트  
 - REST API 설계, JPA 기반 DB 모델링  
 - React + Zustand로 상태 관리, 반응형 UI 구현  

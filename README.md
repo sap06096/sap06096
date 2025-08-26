@@ -1,19 +1,16 @@
 <!-- 배너 이미지 -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Kim%20Chanwoo%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 <div align="center">
-  # 👋 Hi, I'm Kim Chanwoo
-  ### Fullstack Developer  
-  🚀 트렌드에 맞춰 발전하는 **풀스택 개발자**  
+  <h1>👋 Hi, I'm Kim Chanwoo</h1>
+  <h3>🚀 Fullstack Developer</h3>
+  <p><b>트렌드에 맞춰 발전하는 풀스택 개발자</b></p>
   
   <p>
     <a href="https://github.com/sap06096">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://sap06096.tistory.com/">
-      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=ghost&logoColor=white"/>
-    </a>
-    <a href="https://linkedin.com/in/chanwoo-kim">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blog&logoColor=white"/>
     </a>
     <a href="mailto:gimchanu141@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -26,34 +23,34 @@
 ## 🛠 Backend & Cloud Infrastructure  
 
 **Core Backend Technologies**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 **Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![iwinv](https://img.shields.io/badge/iwinv-0F2C55?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![iwinv](https://img.shields.io/badge/iwinv-0F2C55?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Databases & Caching**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 🎨 Frontend & Mobile  
 
 **Core Frontend Technologies**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **State Management**  
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-F9DC3E?style=flat-square&logo=vue.js&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-F9DC3E?style=for-the-badge&logo=vue.js&logoColor=black)
 
 ---
 

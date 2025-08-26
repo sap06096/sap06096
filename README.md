@@ -1,10 +1,26 @@
 <!-- 배너 이미지 -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=200&section=header&text=Kim%20Chanwoo%20🚀&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+<div align="center">
+  <img src="assets/banner.png" alt="Kim Chanwoo Banner" width="100%" />
 
-# 👋 Hi, I'm Kim Chanwoo  
-🚀 "좋은 코드는 좋은 문화에서 나온다"  
-트렌드에 맞춰 발전하는 **풀스택 개발자**  
-📌 [Github](https://github.com/sap06096)  📌 [Blog](https://sap06096.tistory.com/)  📧 gimchanu141@gmail.com  
+  # 👋 Hi, I'm **Kim Chanwoo**
+  ### 🌱 Fullstack & Frontend Developer  
+  🚀 "좋은 코드는 좋은 문화에서 나온다"
+  
+  <p>
+    <a href="https://github.com/sap06096">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://sap06096.tistory.com/">
+      <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=ghost&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/chanwoo-kim">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:gimchanu141@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+</div>
 ---
 
 
@@ -63,19 +79,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sap06096&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sap06096&layout=compact&theme=tokyonight)  
-
----
-
-## 📝 Blog & Contact  
-
-📌 [Github](https://github.com/sap06096)  
-📌 [Blog](https://sap06096.tistory.com/)  
-📧 gimchanu141@gmail.com  
-
----
-
-## 🌍 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=sap06096&color=blue&style=flat-square)
 
 ---
 
